@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paramarthi Phukan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1-3QI0itg86rlEeXBSjjWLw0kwitmR2Gq/view?usp=share_link">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/q8tFtXyiN4HGa6pWA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paramarthiphukan&label=Profile%20views&color=0e75b6&style=flat" alt="paramarthiphukan" /> </p>
 
