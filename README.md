@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paramarthiphukan&label=Profile%20views&color=0e75b6&style=flat" alt="paramarthiphukan" /> </p>
 
-- 🌱 I’m currently learning *Web development, Machine learning,*
+- 🌱 I’m currently learning * DSA, Web development, Machine learning,*
 
 - 📫 How to reach me *paramarthiphukan@gmail.com*
 
