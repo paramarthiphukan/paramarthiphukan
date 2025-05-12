@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **paramarthiphukan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rG909sR0jXXwLMTsicALruuwMMklncdP/view?usp=share_link](https://drive.google.com/file/d/1mL7NyRVywau7DebASl9wVj7-vgeXTBtd/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rG909sR0jXXwLMTsicALruuwMMklncdP/view?usp=share_link](https://drive.google.com/file/d/1Vvekg1IqMPSvWKltnfqKL7WXe5rLE2yA/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
